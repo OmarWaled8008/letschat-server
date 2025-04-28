@@ -22,7 +22,6 @@ app.use(helmet());
 app.use(
   cros({
     origin: "https://endearing-klepon-99c653.netlify.app",
-    credentials: true,
   })
 );
 app.use(
