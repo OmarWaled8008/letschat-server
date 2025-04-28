@@ -21,7 +21,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(helmet());
 app.use(
   cros({
-    origin: "http://localhost:5173",
+    origin: "https://endearing-klepon-99c653.netlify.app/",
     credentials: true,
   })
 );
