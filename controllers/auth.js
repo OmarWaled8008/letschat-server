@@ -47,7 +47,7 @@ const login = async (req, res) => {
     }
 
     res.header("Authorization", "Bearer " + token);
-    res.json({ message: "Login successful" }, token);
+    res.json({ message: "Login successful", token });
   } catch (err) {
     res.status(500).json({ message: "Server error 2" });
   }
