@@ -45,11 +45,15 @@ const login = async (req, res) => {
     if (!token) {
       return res.status(500).json({ message: "Server error" });
     }
+
     res.cookie("token", token, {
       maxAge: 24 * 60 * 60 * 1000,
+      httpOnly: true,
+      secure: true,
+      sameSite: "None",
     });
-    res.header("Authorization", "Bearer " + token);
 
+    res.header("Authorization", "Bearer " + token);
     res.json({ message: "Login successful" });
   } catch (err) {
     res.status(500).json({ message: "Server error 2" });
