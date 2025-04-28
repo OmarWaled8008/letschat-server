@@ -1,7 +1,7 @@
 # GlowUp - Social Media Backend API
 
 ## 📄 Project Overview
-GlowUp is a Node.js backend server for a modern social media platform, featuring user authentication, posting content, commenting, liking, following users, and real-time messaging through Socket.io.
+LetsChat is a Node.js backend server for a modern social media platform, featuring user authentication, posting content, commenting, liking, following users, and real-time messaging through Socket.io.
 
 Built with scalability, validation, and real-time communication in mind.
 
