@@ -1,0 +1,452 @@
+[
+  {
+    "username": "omarwaled88",
+    "email": "omarwaled88@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 1",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user2",
+    "email": "user2@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 2",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user3",
+    "email": "user3@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 3",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user4",
+    "email": "user4@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 4",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user5",
+    "email": "user5@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 5",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user6",
+    "email": "user6@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 6",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user7",
+    "email": "user7@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 7",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user8",
+    "email": "user8@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 8",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user9",
+    "email": "user9@example.com",
+    "password": "Ow3042002##",
+    "profilePic": "",
+    "bio": "I am user 9",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user10",
+    "email": "user10@example.com",
+    "password": "Ow3042002##0",
+    "profilePic": "",
+    "bio": "I am user 10",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user11",
+    "email": "user11@example.com",
+    "password": "Ow3042002##1",
+    "profilePic": "",
+    "bio": "I am user 11",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user12",
+    "email": "user12@example.com",
+    "password": "Ow3042002##2",
+    "profilePic": "",
+    "bio": "I am user 12",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user13",
+    "email": "user13@example.com",
+    "password": "Ow3042002##3",
+    "profilePic": "",
+    "bio": "I am user 13",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user14",
+    "email": "user14@example.com",
+    "password": "Ow3042002##4",
+    "profilePic": "",
+    "bio": "I am user 14",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user15",
+    "email": "user15@example.com",
+    "password": "Ow3042002##5",
+    "profilePic": "",
+    "bio": "I am user 15",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user16",
+    "email": "user16@example.com",
+    "password": "Ow3042002##6",
+    "profilePic": "",
+    "bio": "I am user 16",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user17",
+    "email": "user17@example.com",
+    "password": "Ow3042002##7",
+    "profilePic": "",
+    "bio": "I am user 17",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user18",
+    "email": "user18@example.com",
+    "password": "Ow3042002##8",
+    "profilePic": "",
+    "bio": "I am user 18",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user19",
+    "email": "user19@example.com",
+    "password": "Ow3042002##9",
+    "profilePic": "",
+    "bio": "I am user 19",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user20",
+    "email": "user20@example.com",
+    "password": "Ow3042002##0",
+    "profilePic": "",
+    "bio": "I am user 20",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user21",
+    "email": "user21@example.com",
+    "password": "Ow3042002##1",
+    "profilePic": "",
+    "bio": "I am user 21",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user22",
+    "email": "user22@example.com",
+    "password": "Ow3042002##2",
+    "profilePic": "",
+    "bio": "I am user 22",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user23",
+    "email": "user23@example.com",
+    "password": "Ow3042002##3",
+    "profilePic": "",
+    "bio": "I am user 23",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user24",
+    "email": "user24@example.com",
+    "password": "Ow3042002##4",
+    "profilePic": "",
+    "bio": "I am user 24",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user25",
+    "email": "user25@example.com",
+    "password": "Ow3042002##5",
+    "profilePic": "",
+    "bio": "I am user 25",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user26",
+    "email": "user26@example.com",
+    "password": "Ow3042002##6",
+    "profilePic": "",
+    "bio": "I am user 26",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user27",
+    "email": "user27@example.com",
+    "password": "Ow3042002##7",
+    "profilePic": "",
+    "bio": "I am user 27",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user28",
+    "email": "user28@example.com",
+    "password": "Ow3042002##8",
+    "profilePic": "",
+    "bio": "I am user 28",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user29",
+    "email": "user29@example.com",
+    "password": "Ow3042002##9",
+    "profilePic": "",
+    "bio": "I am user 29",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user30",
+    "email": "user30@example.com",
+    "password": "Ow3042002##0",
+    "profilePic": "",
+    "bio": "I am user 30",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user31",
+    "email": "user31@example.com",
+    "password": "Ow3042002##1",
+    "profilePic": "",
+    "bio": "I am user 31",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user32",
+    "email": "user32@example.com",
+    "password": "Ow3042002##2",
+    "profilePic": "",
+    "bio": "I am user 32",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user33",
+    "email": "user33@example.com",
+    "password": "Ow3042002##3",
+    "profilePic": "",
+    "bio": "I am user 33",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user34",
+    "email": "user34@example.com",
+    "password": "Ow3042002##4",
+    "profilePic": "",
+    "bio": "I am user 34",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user35",
+    "email": "user35@example.com",
+    "password": "Ow3042002##5",
+    "profilePic": "",
+    "bio": "I am user 35",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user36",
+    "email": "user36@example.com",
+    "password": "Ow3042002##6",
+    "profilePic": "",
+    "bio": "I am user 36",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user37",
+    "email": "user37@example.com",
+    "password": "Ow3042002##7",
+    "profilePic": "",
+    "bio": "I am user 37",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user38",
+    "email": "user38@example.com",
+    "password": "Ow3042002##8",
+    "profilePic": "",
+    "bio": "I am user 38",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user39",
+    "email": "user39@example.com",
+    "password": "Ow3042002##9",
+    "profilePic": "",
+    "bio": "I am user 39",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user40",
+    "email": "user40@example.com",
+    "password": "Ow3042002##0",
+    "profilePic": "",
+    "bio": "I am user 40",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user41",
+    "email": "user41@example.com",
+    "password": "Ow3042002##1",
+    "profilePic": "",
+    "bio": "I am user 41",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user42",
+    "email": "user42@example.com",
+    "password": "Ow3042002##2",
+    "profilePic": "",
+    "bio": "I am user 42",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user43",
+    "email": "user43@example.com",
+    "password": "Ow3042002##3",
+    "profilePic": "",
+    "bio": "I am user 43",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user44",
+    "email": "user44@example.com",
+    "password": "Ow3042002##4",
+    "profilePic": "",
+    "bio": "I am user 44",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user45",
+    "email": "user45@example.com",
+    "password": "Ow3042002##5",
+    "profilePic": "",
+    "bio": "I am user 45",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user46",
+    "email": "user46@example.com",
+    "password": "Ow3042002##6",
+    "profilePic": "",
+    "bio": "I am user 46",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user47",
+    "email": "user47@example.com",
+    "password": "Ow3042002##7",
+    "profilePic": "",
+    "bio": "I am user 47",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user48",
+    "email": "user48@example.com",
+    "password": "Ow3042002##8",
+    "profilePic": "",
+    "bio": "I am user 48",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user49",
+    "email": "user49@example.com",
+    "password": "Ow3042002##9",
+    "profilePic": "",
+    "bio": "I am user 49",
+    "followers": [],
+    "following": []
+  },
+  {
+    "username": "user50",
+    "email": "user50@example.com",
+    "password": "Ow3042002##0",
+    "profilePic": "",
+    "bio": "I am user 50",
+    "followers": [],
+    "following": []
+  }
+]
