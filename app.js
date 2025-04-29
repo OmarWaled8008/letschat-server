@@ -28,7 +28,10 @@ app.use(
   "/uploads",
   express.static(path.join(__dirname, "uploads"), {
     setHeaders: (res) => {
-      res.set("Access-Control-Allow-Origin", process.env.CLIENT_URL);
+      res.set(
+        "Access-Control-Allow-Origin",
+        "https://endearing-klepon-99c653.netlify.app"
+      );
     },
   })
 );
