@@ -14,7 +14,7 @@ mongoose
     });
     const io = socketIo(appServer, {
       cors: {
-        origin: process.env.CLIENT_URL,
+        origin: "https://endearing-klepon-99c653.netlify.app",
       },
     });
     ioServer(io);
